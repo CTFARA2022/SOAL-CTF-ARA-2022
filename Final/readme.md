@@ -1,1 +1,1 @@
-# Ini Adalah Kumpulan Soal dari Final CTF ARA 2022
+# INI ADALAH KUMPULAN SOAL FINAL CTF ARA 2022
