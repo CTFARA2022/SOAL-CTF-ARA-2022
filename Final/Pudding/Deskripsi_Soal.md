@@ -1,0 +1,7 @@
+#Pudding
+
+SEMEN INDONESIA juga ingin mengetest kemampuan cryptographymu lebih jauh. Selesaikan Ini !!!
+
+nc 128.199.71.194:1024
+
+Soal By: Ruy-Lopez #9378
