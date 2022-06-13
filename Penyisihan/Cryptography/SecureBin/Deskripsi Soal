@@ -1,0 +1,19 @@
+I created my own pastebin and I named it SecureBin , it was built using Java because i love Java and Many people use it ( 3 Billion Devices Run Java :o ) 
+
+#### How to Use SecureBin
+
+**Generate JWT Token**
+`curl -X POST <URL>/generate --data "username=<USERNAME>"`
+
+**Create Note**
+`curl -X POST <URL>/create -H "Authorization: Bearer <BEARER> --data "data=<DATA>"`
+
+**Access Note**
+`curl <URL>/note/<ID_NOTE> -H "Authorization: Bearer <TOKEN>"`
+
+- "admin" said he has a gift for you in his notes
+- the seed used on the server is not 1
+	
+	IP address & port: http://159.223.83.0:8080/
+	
+	Soal by: kosong#5956
