@@ -1,1 +1,6 @@
-INI ADALAH KUMPULAN SOAL FINAL CTF ARA 2022
+# Kumpulan soal yang tersedia dalam folder ini adalah
+
+- Corrupted
+- Perpustakaan ITS
+- azfarcantik
+- senja
