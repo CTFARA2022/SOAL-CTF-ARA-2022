@@ -1,1 +1,5 @@
-INI ADALAH KUMPULAN SOAL FINAL CTF ARA 2022
+# Soal yang tersedia dalam folder ini adalah
+ 
+- Directive Communication
+- Superbabytakumi
+- Superbabytakumi2
