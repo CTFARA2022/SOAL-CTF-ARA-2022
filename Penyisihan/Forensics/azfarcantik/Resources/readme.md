@@ -1,3 +1,3 @@
-File yang terlampir
-solver.py
-flag.py
+# File yang terlampir
+- solver.py
+- flag.py
